@@ -1,7 +1,5 @@
 # x64dbg
 
-<img width="100" src="./src/bug_black.png"/>
-
 一个开源的Windows二进制调试器，旨在进行恶意软件分析和你没有源代码的可执行文件的逆向工程。有许多可用的功能和一个全面的插件系统 来添加你自己的功能。你可以在博客上找到更多信息!
 
 ## 屏幕截图
@@ -51,3 +49,5 @@
 
 ## 链接
 [Github Snapshot](https://github.com/x64dbg/x64dbg/releases/latest)
+[Sourceforge Download Latest](https://sourceforge.net/projects/x64dbg/files/latest/download)
+[OSDN File](https://osdn.net/projects/x64dbg/storage/)
