@@ -8,11 +8,11 @@
 
 <!-- TODO: recreate Chinese screenshots -->
 
-![main interface (light)](https://github.com/x64dbg/x64dbg/.github/screenshots/cpu-light.png)
+![main interface (light)](https://raw.githubusercontent.com/x64dbg/x64dbg/refs/heads/development/.github/screenshots/cpu-light.png)
 
-![main interface (dark)](https://github.com/x64dbg/x64dbg/.github/screenshots/cpu-dark.png)
+![main interface (dark)](https://raw.githubusercontent.com/x64dbg/x64dbg/refs/heads/development/.github/screenshots/cpu-dark.png)
 
-| ![graph](https://github.com/x64dbg/x64dbg/.github/screenshots/graph-light.png) | ![memory map](https://github.com/x64dbg/x64dbg/.github/screenshots/memory-map-light.png) |
+| ![graph](https://raw.githubusercontent.com/x64dbg/x64dbg/refs/heads/development/.github/screenshots/graph-light.png) | ![memory map](https://raw.githubusercontent.com/x64dbg/x64dbg/refs/heads/development/.github/screenshots/memory-map-light.png) |
 | :--: | :--: |
 
 ## 安装与使用
